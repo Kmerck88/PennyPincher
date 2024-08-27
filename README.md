@@ -7,10 +7,8 @@ Welcome to PennyPitcher! This site
 - **HTML**: For structuring the content.
 - **CSS**: For styling the website.
 - **JavaScript**: For adding interactivity.
-- **Angular**: For building dynamic web applications.
-- **C# .NET**: For backend development.
-- **EF Core**: For database management.
-- **MySQL**: For database storage.
+- **Auth**Clerk: For authentication.
+- **PostgreSQ**: For database storage.
 
 ## Features
 
@@ -25,5 +23,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone github.com/Kmerck88/PennyPincher
 
