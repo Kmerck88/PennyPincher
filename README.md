@@ -8,7 +8,7 @@ Welcome to PennyPitcher! This site
 - **CSS**: For styling the website.
 - **JavaScript**: For adding interactivity.
 - **Clerk**For authentication.
-- **PostgreSQ**: For database storage.
+- **Neon Database**: For database storage.
 
 ## Features
 
