@@ -7,15 +7,12 @@ Welcome to PennyPitcher! This site
 - **HTML**: For structuring the content.
 - **CSS**: For styling the website.
 - **JavaScript**: For adding interactivity.
-- **Auth**Clerk: For authentication.
+- **Clerk**For authentication.
 - **PostgreSQ**: For database storage.
 
 ## Features
 
-- **Home Page**: Introduction and overview of my skills.
-- **Portfolio**: A showcase of my projects and work.
-- **About Me**: Information about my background and experience.
-- **Contact**: A form to get in touch with me.
+Coming Soon
 
 ## Installation
 
