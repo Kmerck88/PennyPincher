@@ -2,13 +2,13 @@ import type { Metadata } from "next";
 import { Roboto } from "next/font/google";
 import "./globals.css";
 import { ClerkProvider } from "@clerk/nextjs";
-import Header from "@/components/Header";
+import Header from '@/components/Header'; 
 
 const roboto = Roboto({ weight: '400',  subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Expense Tracker",
-  description: "A simple expense tracker app",
+  description: "A simple expense tracker and budgeting app", 
 };
 
 export default function RootLayout({

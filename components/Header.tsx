@@ -1,22 +1,22 @@
-import { SignInButton, SignedIn, SignedOut, UserButton } from '@clerk/nextjs';
+import { SignInButton, SignedIn, SignedOut, UserButton  }
+from "@clerk/nextjs";
 
-const Header = async () => {
-
-  return (
-    <nav className='navbar'>
-      <div className='navbar-container'>
-        <h2>Expense Tracker</h2>
-        <div>
-          <SignedOut>
-            <SignInButton />
-          </SignedOut>
-          <SignedIn>
-            <UserButton />
-          </SignedIn>
-        </div>
-      </div>
-    </nav>
+const header = () => {
+  return ( <nav className="navbar">
+    <div className="navbar-container">
+      <h2>Expense tracker </h2>
+      <div>
+        <SignedOut>
+          <SignInButton />
+        </SignedOut>
+        <SignedIn>
+          <UserButton />
+        </SignedIn>
+     </div>
+    </div>
+  </nav>
+ 
   );
-};
+}
 
-export default Header;
+export default header;
